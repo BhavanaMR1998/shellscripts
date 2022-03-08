@@ -1,0 +1,9 @@
+source run.config
+echo $email
+echo $user
+echo $password
+echo $want_to_use
+echo $data_type
+echo $bus
+echo $dev
+echo $fun
